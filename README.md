@@ -1,8 +1,6 @@
 <html>
   <head>
-    <title>
-      Desafió 4
-    </title>
+    <title>Desafió 4</title>
   </head>
   <body>
     <p>Se agrego en el formularios.html una lista ordenada y desordenada.</p>
